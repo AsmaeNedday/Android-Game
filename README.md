@@ -1,2 +1,1 @@
-# Android-Game
-an android game using java 
+An android learning game 
