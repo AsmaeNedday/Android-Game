@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.e-mobadara:moblib-v1.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/moblib-v1.2.2.aar/82459b289ee5fa322df0c8291f039fea/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/moblib-v1.2.2.aar/82459b289ee5fa322df0c8291f039fea/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.e-mobadara/moblib/v1.2.2/7fe3174a9ba39cfa6b710ab13770fe74a4aed691/moblib-v1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="475dp"
+    android:background="@drawable/popu"
+    android:padding="5dp"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/choose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50dp"
+            android:text="Choix de langue "
+            android:textColor="@android:color/holo_blue_bright"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/a1"
+            android:layout_width="130dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="50dp"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:background="@drawable/buttoni"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="العربية "
+            android:textColor="@android:color/background_light"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/a3"
+            android:layout_width="130dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="الانجليزية"
+            android:textColor="@android:color/background_light"
+            android:background="@drawable/buttoni"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/a4"
+            android:layout_width="130dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/buttoni"
+            android:text=" الفرنسية "
+            android:textColor="@android:color/background_light"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/a5"
+            android:layout_width="130dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/buttoni"
+            android:text=" الدارجة"
+            android:textColor="@android:color/background_light"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>
